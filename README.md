@@ -28,9 +28,8 @@
 <h2 align="center">✨ Welcome !✨</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanuka238&theme=dracula&area=true&custom_title=My%20Contribution%20Graph" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanuka238&theme=dracula&area=true&custom_title=My%20Contribution%20Graph&bg_color=0a1029" alt="GitHub Contribution Graph"/>
 </div>
-
 <hr/>
 
 <h2 align="center">🛠 TECH STACK 🛠</h2>
