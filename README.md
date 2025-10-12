@@ -61,7 +61,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Shanuka238&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
       </td>
       <td rowspan="2" align="center">
-        <img src="https://i0.wp.com/inspi.com.br/wp-content/uploads/2015/03/florian-3.gif?fit=400%2C400&ssl=1" width="200px" />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRxNmJvd3VyMWtuYWZ5NjMxcXV1c2NtY3g2dHpiZTd4djlqbjhpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHZXBCWDUGDNLothkL/giphy.gif" width="200px" />
       </td>
     </tr>
     <tr>
