@@ -16,13 +16,13 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LEXES7&color=blue" alt="profile-views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shanuka238&color=blue" alt="profile-views"/>
 </div>
 
 ###
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F752&background=96B6FF00&center=true&vCenter=true&width=435&lines=%3E+Initializing...++;%3E+User%3A+Sachintha+Bhashitha;%3E+Role%3A+Full-Stack+Dev;%3E+Affiliation%3A+IT+Student+%40+SLIIT++;%3E+Status%3A+%F0%9F%9F%A2+Online+" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F752&background=96B6FF00&center=true&vCenter=true&width=435&lines=%3E+Initializing...++;%3E+User%3A+Achintha+Shanuka;%3E+Role%3A+Full-Stack+Dev;%3E+Affiliation%3A+IT+Student+%40+ICBT++;%3E+Status%3A+%F0%9F%9F%A2+Online+" alt="Typing SVG"/>
 </h1>
 
 <h2 align="center">☕️ Welcome !🪐</h2>
