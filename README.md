@@ -25,7 +25,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FC3F7&background=96B6FF00&center=true&vCenter=true&width=435&lines=%3E+Initializing...++;%3E+User%3A+Achintha+Shanuka;%3E+Role%3A+Full-Stack+Dev;%3E+Affiliation%3A+IT+Student+%40+ICBT++;%3E+Status%3A+%F0%9F%9F%A2+Online+" alt="Typing SVG"/>
 </h1>
 
-<h2 align="center">✨ Welcome !✨</h2>
+<h2 align="center">❄️ Welcome !☄️</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanuka238&theme=dracula&area=true&custom_title=My%20Contribution%20Graph&bg_color=0a1029" alt="GitHub Contribution Graph"/>
